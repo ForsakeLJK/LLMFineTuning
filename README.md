@@ -1,6 +1,4 @@
-# LLMFineTuning
-ID2223 Lab2 Assignment
-
+# ID2223 Lab2 Assignment
 
 `app.py` Gradio app main file
 
