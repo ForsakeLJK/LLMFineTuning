@@ -1,4 +1,4 @@
-# ID2223 Lab 2 – Group *rice_cake*
+# ID2223 Lab 2
 
 This repository contains the work for the ID2223 Lab 2 assignment by group **rice_cake**.  
 Our goal for this lab is to achieve **grade A**.
